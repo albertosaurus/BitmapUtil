@@ -1,0 +1,1 @@
+Windows utility for resizing bitmaps.
